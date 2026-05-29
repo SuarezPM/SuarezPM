@@ -3,13 +3,12 @@
   Deploy: commit this file as README.md at the ROOT of the SuarezPM/SuarezPM repo.
   Snake: commit snake.yml to .github/workflows/ and enable Actions (writes the `output` branch).
   Tokscale: the AI-usage embed only renders once you claim the SuarezPM handle at tokscale.ai.
-  To swap the green wave banner for the Apohara logo, commit the logo and replace the
-  capsule-render <img> below with: <img src="./assets/apohara-logo.png" width="520" alt="Apohara" />
+  Header banner lives at ./assets/apohara-banner.jpg. The footer keeps the capsule-render waves.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=84CC16&height=220&section=header&text=APOHARA&fontColor=0D1117&fontSize=80&fontAlignY=36&desc=Silicon-native%20infrastructure%20for%20multi-agent%20LLMs&descSize=16&descAlignY=56&descAlign=50&animation=fadeIn" width="100%" alt="Apohara" />
+<img src="./assets/apohara-banner.jpg" width="100%" alt="Apohara — silicon-native infrastructure for multi-agent LLMs" />
 
 # Hi, I'm Pablo 👋
 
