@@ -93,17 +93,17 @@ I am Pablo M. Suarez, founder of **Apohara**. I build silicon-native infrastruct
 <div align="center">
 
 <a href="https://github.com/SuarezPM/Apohara_Context_Forge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuarezPM&repo=Apohara_Context_Forge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=84CC16&icon_color=84CC16" alt="ContextForge" />
+  <img src="https://github-readme-stats-three-coral-78.vercel.app/api/pin/?username=SuarezPM&repo=Apohara_Context_Forge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=84CC16&icon_color=84CC16" alt="ContextForge" />
 </a>
 <a href="https://github.com/SuarezPM/apohara-synthex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuarezPM&repo=apohara-synthex&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=84CC16&icon_color=84CC16" alt="Synthex" />
+  <img src="https://github-readme-stats-three-coral-78.vercel.app/api/pin/?username=SuarezPM&repo=apohara-synthex&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=84CC16&icon_color=84CC16" alt="Synthex" />
 </a>
 <br/>
 <a href="https://github.com/SuarezPM/Apohara-Catalyst">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuarezPM&repo=Apohara-Catalyst&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=84CC16&icon_color=84CC16" alt="Catalyst" />
+  <img src="https://github-readme-stats-three-coral-78.vercel.app/api/pin/?username=SuarezPM&repo=Apohara-Catalyst&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=84CC16&icon_color=84CC16" alt="Catalyst" />
 </a>
 <a href="https://github.com/SuarezPM/apohara-consilium">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuarezPM&repo=apohara-consilium&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=84CC16&icon_color=84CC16" alt="Consilium" />
+  <img src="https://github-readme-stats-three-coral-78.vercel.app/api/pin/?username=SuarezPM&repo=apohara-consilium&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=84CC16&icon_color=84CC16" alt="Consilium" />
 </a>
 
 </div>
@@ -131,8 +131,8 @@ I am Pablo M. Suarez, founder of **Apohara**. I build silicon-native infrastruct
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SuarezPM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=84CC16&icon_color=84CC16" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuarezPM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=84CC16" alt="top languages" />
+<img height="180" src="https://github-readme-stats-three-coral-78.vercel.app/api?username=SuarezPM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=84CC16&icon_color=84CC16" alt="stats" />
+<img height="180" src="https://github-readme-stats-three-coral-78.vercel.app/api/top-langs/?username=SuarezPM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=84CC16" alt="top languages" />
 
 <br/>
 
