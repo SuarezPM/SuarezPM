@@ -51,13 +51,9 @@ I am Pablo M. Suarez, founder of **Apohara**. I build silicon-native infrastruct
 <img src="https://img.shields.io/badge/AMD%20MI300X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD MI300X" />
 <img src="https://img.shields.io/badge/ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="ROCm" />
 <img src="https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge&logoColor=white" alt="vLLM" />
-<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge" alt="FAISS" />
-<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
 <br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Model%20Context%20Protocol-0D1117?style=for-the-badge&logoColor=white" alt="MCP" />
+<img src="https://img.shields.io/badge/Model%20Context%20Protocol-5A4FCF?style=for-the-badge&logoColor=white" alt="MCP" />
 <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
 
 </div>
@@ -160,16 +156,6 @@ I am Pablo M. Suarez, founder of **Apohara**. I build silicon-native infrastruct
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SuarezPM/SuarezPM/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/SuarezPM/SuarezPM/output/github-contribution-grid-snake.svg" />
 </picture>
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
 
 </div>
 
