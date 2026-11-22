@@ -6,11 +6,7 @@ infrastructure for multi-agent systems: security, context and evidence with repr
 
 I program by directing fleets of coding agents; design, invariants and ship decisions are mine.
 
-### 🏁 Featured: [apohara-synthex](https://github.com/SuarezPM/apohara-synthex)
-
-My Kiro-track winner (Web Data UNLOCKED): evidence layer over web data.
-Scrape → classify → sign with Ed25519 / RFC3161 / Rekor / C2PA, with verifiable demo.
-MCP companion to brightdata-mcp. n=647 eval gate, no paying customers yet.
+### 🏁 Featured: Winning first place for "Best use of Kiro" at the Web Data UNLOCKED Hackathon & Winning the Hackathon ForoBiotech “One Health” Montevideo, Uruguay — 2026
 
 ### 🎮 Game preservation & systems
 
