@@ -19,9 +19,9 @@ MCP companion to brightdata-mcp. n=647 eval gate, no paying customers yet.
 
 ### 🛠️ Also
 
-- 🦀 [**apohara-agentguard**](https://github.com/SuarezPM/apohara-agentguard): deterministic offline Rust gate for coding agents (seccomp, Landlock, MCP proxy, CI, SLSA L3) — my most-starred repo. Limit: paraphrase attacks 94.8% FN, synthetic corpus
-- 🐱 [**kitty-code**](https://github.com/SuarezPM/kitty-code): local-first Rust harness for small code models (ornith:9b Q4_K_M via Ollama) on consumer GPUs, tested on RTX 2060 Super 8GB. Guard-gated tool loop, hashline BLAKE3 edits, quality monitor, episodic memory. Honest benches, research harness not prod
-- 💻 Local-first tinkering relevant to that: Ollama + small models, MCP server mode + TUI, self-hosting, CI images. No cloud dependency by design
+🤖 Big fan of working with AI: agents, automation and tooling that make day-to-day ops faster and less error-prone
+🦀 [**apohara-agentguard**](https://github.com/SuarezPM/apohara-agentguard): deterministic offline Rust gate for coding agents (seccomp, Landlock, MCP proxy, CI, SLSA L3) — my most-starred repo. Limit: paraphrase attacks 94.8% FN, synthetic corpus
+🐱 [**kitty-code**](https://github.com/SuarezPM/kitty-code): local-first Rust harness for small code models (ornith:9b Q4_K_M via Ollama) on consumer GPUs, tested on RTX 2060 Super 8GB. Guard-gated tool loop, hashline BLAKE3 edits, quality monitor, episodic memory. Honest benches, research harness not prod
 
 ### Tech
 
