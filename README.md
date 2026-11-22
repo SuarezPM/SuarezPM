@@ -38,6 +38,22 @@ I program by directing fleets of coding agents; design, invariants and ship deci
 
 ### 📫 Connect
 
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuarezPM)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suarezpm/)
 [![Email](https://img.shields.io/badge/Email-8ADC16?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:suarezpm@csnat.unt.edu.ar)
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuarezPM/SuarezPM/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SuarezPM/SuarezPM/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/SuarezPM/SuarezPM/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
